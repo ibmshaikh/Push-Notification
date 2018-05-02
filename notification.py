@@ -2,9 +2,6 @@ from pyfcm import FCMNotification
 
 push_service = FCMNotification(api_key="AAAAaccXLck:APA91bHEthjjmJJ0vp8te617ztOkMNGVwTLBhzHAtihQ3NwTCMC1YlhmlzpC2T4VziFm7KgqhAOT0opcxQmKKgM_pSEjTfvRfIQvWQUAZHOo##############")
 
-# OR initialize with proxies
-
-# Your api-key can be gotten from:  https://console.firebase.google.com/project/<project-name>/settings/cloudmessaging
 
 registration_id = "c4yFKTrfG9s:APA91bGdFDzVm_VPtgXDETEdUzGqIVeKPTrR2fOy8rY-4SxbYGWeVgxEss86LFjA-w43O4uuOtfCm4J6pxDaNdIV7QOh1S548Y5V0_jd7AqtMWo52ceaqthJHVmbcI-AkEu1476PTi6M"
 message_title = "SNC"

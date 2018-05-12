@@ -1,4 +1,4 @@
-utton b=(Button)findViewById(R.id.button2);
+Button b=(Button)findViewById(R.id.button2);
 b.b.setOnClickListener(new View.OnClickListener() {
           @Override
             public void onClick(View v) {
